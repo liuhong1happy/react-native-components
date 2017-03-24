@@ -11,5 +11,6 @@ my react-native components
 - [similar-react-native-router](https://github.com/liuhong1happy/similar-react-native-router)
 - [react-native-weibo](https://github.com/liuhong1happy/react-native-weibo)
 - [react-native-wechat](https://github.com/liuhong1happy/react-native-wechat)
+- [react-native-qq](https://github.com/liuhong1happy/react-native-qq)
 - [react-native-wallpaper-manager](https://github.com/liuhong1happy/react-native-wallpaper-manager)
 - [react-native-redux](https://github.com/liuhong1happy/react-native-redux)
